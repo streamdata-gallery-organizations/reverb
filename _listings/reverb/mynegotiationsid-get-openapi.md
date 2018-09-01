@@ -3,7 +3,7 @@ swagger: "2.0"
 x-collection-name: Reverb
 x-complete: 0
 info:
-  title: reverb Get My Negotiations
+  title: Reverb Get My Negotiations
   description: Get my negotiations.
   termsOfService: https://reverb.com/page/terms
   contact:

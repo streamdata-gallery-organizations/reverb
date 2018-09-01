@@ -3,7 +3,7 @@ swagger: "2.0"
 x-collection-name: Reverb
 x-complete: 0
 info:
-  title: reverb Get My Follows Categories Category Subcategory
+  title: Reverb Get My Follows Categories Category Subcategory
   description: Get my follows categories category subcategory.
   termsOfService: https://reverb.com/page/terms
   contact:

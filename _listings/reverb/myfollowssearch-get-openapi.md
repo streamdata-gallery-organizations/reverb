@@ -3,7 +3,7 @@ swagger: "2.0"
 x-collection-name: Reverb
 x-complete: 0
 info:
-  title: reverb Get My Follows Search
+  title: Reverb Get My Follows Search
   description: Follow status for a search
   termsOfService: https://reverb.com/page/terms
   contact:

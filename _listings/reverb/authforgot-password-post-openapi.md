@@ -3,7 +3,7 @@ swagger: "2.0"
 x-collection-name: Reverb
 x-complete: 0
 info:
-  title: reverb Post Auth Forgot Password
+  title: Reverb Post Auth Forgot Password
   description: Send a password reset email
   termsOfService: https://reverb.com/page/terms
   contact:

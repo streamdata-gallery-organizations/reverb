@@ -3,7 +3,7 @@ swagger: "2.0"
 x-collection-name: Reverb
 x-complete: 0
 info:
-  title: reverb Put Auth Logout
+  title: Reverb Put Auth Logout
   description: Logout (primarily for mobile clients)
   termsOfService: https://reverb.com/page/terms
   contact:

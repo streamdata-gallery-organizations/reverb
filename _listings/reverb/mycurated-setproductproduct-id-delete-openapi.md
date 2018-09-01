@@ -3,7 +3,7 @@ swagger: "2.0"
 x-collection-name: Reverb
 x-complete: 0
 info:
-  title: reverb Delete My Curated Set Product Product
+  title: Reverb Delete My Curated Set Product Product
   description: Delete my curated set product product.
   termsOfService: https://reverb.com/page/terms
   contact:

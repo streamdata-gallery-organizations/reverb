@@ -3,7 +3,7 @@ swagger: "2.0"
 x-collection-name: Reverb
 x-complete: 0
 info:
-  title: reverb Post Orders Order Feedback Buyer
+  title: Reverb Post Orders Order Feedback Buyer
   description: Add feedback about an order's buyer
   termsOfService: https://reverb.com/page/terms
   contact:

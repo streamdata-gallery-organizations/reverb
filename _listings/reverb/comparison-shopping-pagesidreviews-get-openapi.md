@@ -3,7 +3,7 @@ swagger: "2.0"
 x-collection-name: Reverb
 x-complete: 0
 info:
-  title: reverb Get Comparison Shopping Pages Reviews
+  title: Reverb Get Comparison Shopping Pages Reviews
   description: View reviews of a comparison shopping page
   termsOfService: https://reverb.com/page/terms
   contact:

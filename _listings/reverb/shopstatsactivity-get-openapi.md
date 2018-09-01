@@ -3,7 +3,7 @@ swagger: "2.0"
 x-collection-name: Reverb
 x-complete: 0
 info:
-  title: reverb Get Shop Stats Activity
+  title: Reverb Get Shop Stats Activity
   description: Get shop activity for a particular time period
   termsOfService: https://reverb.com/page/terms
   contact:

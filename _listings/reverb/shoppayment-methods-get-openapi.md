@@ -3,7 +3,7 @@ swagger: "2.0"
 x-collection-name: Reverb
 x-complete: 0
 info:
-  title: reverb Get Shop Payment Methods
+  title: Reverb Get Shop Payment Methods
   description: Get accepted payment methods
   termsOfService: https://reverb.com/page/terms
   contact:

@@ -3,7 +3,7 @@ swagger: "2.0"
 x-collection-name: Reverb
 x-complete: 0
 info:
-  title: reverb Get Shop
+  title: Reverb Get Shop
   description: Get your own shop details
   termsOfService: https://reverb.com/page/terms
   contact:

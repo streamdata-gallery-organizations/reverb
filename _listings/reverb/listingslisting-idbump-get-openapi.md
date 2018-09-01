@@ -3,7 +3,7 @@ swagger: "2.0"
 x-collection-name: Reverb
 x-complete: 0
 info:
-  title: reverb Get Listings Listing Bump
+  title: Reverb Get Listings Listing Bump
   description: View available bump tiers and stats for a listing
   termsOfService: https://reverb.com/page/terms
   contact:

@@ -3,7 +3,7 @@ swagger: "2.0"
 x-collection-name: Reverb
 x-complete: 0
 info:
-  title: reverb Post My Curated Set Product Product
+  title: Reverb Post My Curated Set Product Product
   description: Post my curated set product product.
   termsOfService: https://reverb.com/page/terms
   contact:

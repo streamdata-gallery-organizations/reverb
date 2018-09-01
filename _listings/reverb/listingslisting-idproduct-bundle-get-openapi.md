@@ -3,7 +3,7 @@ swagger: "2.0"
 x-collection-name: Reverb
 x-complete: 0
 info:
-  title: reverb Get Listings Listing Product Bundle
+  title: Reverb Get Listings Listing Product Bundle
   description: Find a product bundle attached to a listing
   termsOfService: https://reverb.com/page/terms
   contact:

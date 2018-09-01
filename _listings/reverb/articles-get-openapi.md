@@ -3,7 +3,7 @@ swagger: "2.0"
 x-collection-name: Reverb
 x-complete: 0
 info:
-  title: reverb Get Articles
+  title: Reverb Get Articles
   description: Get articles.
   termsOfService: https://reverb.com/page/terms
   contact:

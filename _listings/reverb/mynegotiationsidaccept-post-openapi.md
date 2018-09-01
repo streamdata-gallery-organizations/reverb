@@ -3,7 +3,7 @@ swagger: "2.0"
 x-collection-name: Reverb
 x-complete: 0
 info:
-  title: reverb Post My Negotiations Accept
+  title: Reverb Post My Negotiations Accept
   description: Post my negotiations accept.
   termsOfService: https://reverb.com/page/terms
   contact:

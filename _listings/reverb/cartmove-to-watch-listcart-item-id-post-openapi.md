@@ -3,7 +3,7 @@ swagger: "2.0"
 x-collection-name: Reverb
 x-complete: 0
 info:
-  title: reverb Post Cart Move To Watch List Cart Item
+  title: Reverb Post Cart Move To Watch List Cart Item
   description: Remove a cart item and add it to watch list
   termsOfService: https://reverb.com/page/terms
   contact:

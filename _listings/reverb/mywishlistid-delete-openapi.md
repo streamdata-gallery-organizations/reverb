@@ -3,7 +3,7 @@ swagger: "2.0"
 x-collection-name: Reverb
 x-complete: 0
 info:
-  title: reverb Delete My Wishlist
+  title: Reverb Delete My Wishlist
   description: Remove a listing from your wishlist
   termsOfService: https://reverb.com/page/terms
   contact:

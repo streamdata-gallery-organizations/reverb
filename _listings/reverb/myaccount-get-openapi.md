@@ -3,7 +3,7 @@ swagger: "2.0"
 x-collection-name: Reverb
 x-complete: 0
 info:
-  title: reverb Get My Account
+  title: Reverb Get My Account
   description: Get account details
   termsOfService: https://reverb.com/page/terms
   contact:

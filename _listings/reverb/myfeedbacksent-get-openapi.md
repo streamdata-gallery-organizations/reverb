@@ -3,7 +3,7 @@ swagger: "2.0"
 x-collection-name: Reverb
 x-complete: 0
 info:
-  title: reverb Get My Feedback Sent
+  title: Reverb Get My Feedback Sent
   description: List of sent feedback
   termsOfService: https://reverb.com/page/terms
   contact:

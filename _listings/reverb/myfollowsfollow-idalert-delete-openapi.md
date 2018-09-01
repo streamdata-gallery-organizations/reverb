@@ -3,7 +3,7 @@ swagger: "2.0"
 x-collection-name: Reverb
 x-complete: 0
 info:
-  title: reverb Delete My Follows Follow Alert
+  title: Reverb Delete My Follows Follow Alert
   description: Delete my follows follow alert.
   termsOfService: https://reverb.com/page/terms
   contact:

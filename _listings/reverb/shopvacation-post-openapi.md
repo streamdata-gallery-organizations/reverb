@@ -3,7 +3,7 @@ swagger: "2.0"
 x-collection-name: Reverb
 x-complete: 0
 info:
-  title: reverb Post Shop Vacation
+  title: Reverb Post Shop Vacation
   description: Enable vacation mode. All listings will be unavailable until vacation
     mode is turned off.
   termsOfService: https://reverb.com/page/terms

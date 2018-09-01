@@ -3,7 +3,7 @@ swagger: "2.0"
 x-collection-name: Reverb
 x-complete: 0
 info:
-  title: reverb Delete Wants
+  title: Reverb Delete Wants
   description: Unmark an item wanted.
   termsOfService: https://reverb.com/page/terms
   contact:

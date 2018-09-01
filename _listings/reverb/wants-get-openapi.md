@@ -3,7 +3,7 @@ swagger: "2.0"
 x-collection-name: Reverb
 x-complete: 0
 info:
-  title: reverb Get Wants
+  title: Reverb Get Wants
   description: A list of wanted items by the user
   termsOfService: https://reverb.com/page/terms
   contact:

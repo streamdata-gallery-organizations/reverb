@@ -3,7 +3,7 @@ swagger: "2.0"
 x-collection-name: Reverb
 x-complete: 0
 info:
-  title: reverb Put Wants
+  title: Reverb Put Wants
   description: Mark an item wanted. Returns 200 on success or 422 on failure.
   termsOfService: https://reverb.com/page/terms
   contact:

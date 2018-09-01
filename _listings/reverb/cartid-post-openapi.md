@@ -3,7 +3,7 @@ swagger: "2.0"
 x-collection-name: Reverb
 x-complete: 0
 info:
-  title: reverb Post Cart
+  title: Reverb Post Cart
   description: Add product to the cart
   termsOfService: https://reverb.com/page/terms
   contact:

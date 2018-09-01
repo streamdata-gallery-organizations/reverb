@@ -3,7 +3,7 @@ swagger: "2.0"
 x-collection-name: Reverb
 x-complete: 0
 info:
-  title: reverb Post My Follows Categories Category Subcategory
+  title: Reverb Post My Follows Categories Category Subcategory
   description: Post my follows categories category subcategory.
   termsOfService: https://reverb.com/page/terms
   contact:

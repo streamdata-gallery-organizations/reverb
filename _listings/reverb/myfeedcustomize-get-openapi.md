@@ -3,7 +3,7 @@ swagger: "2.0"
 x-collection-name: Reverb
 x-complete: 0
 info:
-  title: reverb Get My Feed Customize
+  title: Reverb Get My Feed Customize
   description: get your feed customization options
   termsOfService: https://reverb.com/page/terms
   contact:

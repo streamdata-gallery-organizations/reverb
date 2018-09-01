@@ -3,7 +3,7 @@ swagger: "2.0"
 x-collection-name: Reverb
 x-complete: 0
 info:
-  title: reverb Delete Shop Vacation
+  title: Reverb Delete Shop Vacation
   description: Disable vacation mode. All listings will be re-enabled.
   termsOfService: https://reverb.com/page/terms
   contact:

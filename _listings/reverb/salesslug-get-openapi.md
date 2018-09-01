@@ -3,7 +3,7 @@ swagger: "2.0"
 x-collection-name: Reverb
 x-complete: 0
 info:
-  title: reverb Get Sales Slug
+  title: Reverb Get Sales Slug
   description: Get sales slug.
   termsOfService: https://reverb.com/page/terms
   contact:

@@ -3,7 +3,7 @@ swagger: "2.0"
 x-collection-name: Reverb
 x-complete: 0
 info:
-  title: reverb Get Pricegue
+  title: Reverb Get Pricegue
   description: Search the Price Guide
   termsOfService: https://reverb.com/page/terms
   contact:

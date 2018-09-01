@@ -3,7 +3,7 @@ swagger: "2.0"
 x-collection-name: Reverb
 x-complete: 0
 info:
-  title: reverb Get My Wishlist
+  title: Reverb Get My Wishlist
   description: Get a list of wishlisted items
   termsOfService: https://reverb.com/page/terms
   contact:

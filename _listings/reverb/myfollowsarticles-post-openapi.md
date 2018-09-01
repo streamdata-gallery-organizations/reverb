@@ -3,7 +3,7 @@ swagger: "2.0"
 x-collection-name: Reverb
 x-complete: 0
 info:
-  title: reverb Post My Follows Articles
+  title: Reverb Post My Follows Articles
   description: Set a user's ArticleCategoryFollows
   termsOfService: https://reverb.com/page/terms
   contact:

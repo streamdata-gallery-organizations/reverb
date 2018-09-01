@@ -3,7 +3,7 @@ swagger: "2.0"
 x-collection-name: Reverb
 x-complete: 0
 info:
-  title: reverb Post My Follows Handpicked Slug
+  title: Reverb Post My Follows Handpicked Slug
   description: Post my follows handpicked slug.
   termsOfService: https://reverb.com/page/terms
   contact:

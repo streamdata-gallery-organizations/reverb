@@ -3,7 +3,7 @@ swagger: "2.0"
 x-collection-name: Reverb
 x-complete: 0
 info:
-  title: reverb Get My Feed Gr
+  title: Reverb Get My Feed Gr
   description: Get my feed gr.
   termsOfService: https://reverb.com/page/terms
   contact:

@@ -3,7 +3,7 @@ swagger: "2.0"
 x-collection-name: Reverb
 x-complete: 0
 info:
-  title: reverb Put My Account
+  title: Reverb Put My Account
   description: Update account details
   termsOfService: https://reverb.com/page/terms
   contact:
